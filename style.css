@@ -51,6 +51,10 @@ menu {
   width: 25%;
 }
 
+.menu li:last-child {
+  border-right: 1px solid #2c71b8;
+}
+
 .menu a {
   display: flex;
   height: 50px;
